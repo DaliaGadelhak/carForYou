@@ -154,6 +154,7 @@ useEffect(()=>{
                 </div>
             </div>
             <button>Click here to check gitHub</button>
+            <button style={{color:black}}>New Button!</button>
         </div>
     )
 }
