@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:40px;
+}
+
+.flex1{
+    display: flex;
+    flex-wrap: wrap;
+    width:600px;
+    margin: 0 auto;   
+}
+
+.flex1 div{
+    width:295px;
+}
